@@ -10,7 +10,7 @@ This Jupyter notebook implements the segmentation of nuclei in whole-slide image
 
 Dataset
 ------------
-![Link](https://www.kaggle.com/datasets/andrewmvd/cancer-inst-segmentation-and-classification/data)
+[Link](https://www.kaggle.com/datasets/andrewmvd/cancer-inst-segmentation-and-classification/data)
 
 
 Results
