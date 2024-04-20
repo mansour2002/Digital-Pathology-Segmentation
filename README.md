@@ -12,6 +12,10 @@ Dataset
 ------------
 [Link](https://www.kaggle.com/datasets/andrewmvd/cancer-inst-segmentation-and-classification/data)
 
+IoU Loss Function
+------------
+The IoU Loss function is tailored for the instance segmentation of cell nuclei by computing the IoU metric as a loss value. The implementation supports weighting for class balance, and is designed to handle multi-class segmentation tasks efficiently.
+
 
 Results
 ------------
