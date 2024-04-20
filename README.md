@@ -1,6 +1,6 @@
 # Cancer Instance Segmentation
 
-Cell Nuclei Segmentation on Cancer Instance Segmentation (PanNuke) Using Python and PyTorch.
+Cell Nuclei Instance Segmentation on Cancer Instance Segmentation (PanNuke) Using Python and PyTorch.
 
 
 Overview
