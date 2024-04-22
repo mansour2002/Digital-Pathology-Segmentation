@@ -19,7 +19,7 @@ The IoU Loss function is tailored for the instance segmentation of cell nuclei b
 
 Results
 ------------
-These figures show some representative input images and corresponding ground truths and predicted images:
+These figures illustrate representative input images, along with their corresponding ground truths and predicted images:
 
 ![Sample](https://github.com/mansour2002/Digital-Pathology-Segmentation/blob/main/Figures/Nuclei%20Segmentation%201.png?raw=true)
 
